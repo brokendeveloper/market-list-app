@@ -1,0 +1,42 @@
+# Ignore arquivos do ambiente Java
+/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore arquivos do Maven
+.mvn/
+!mvn/wrapper/maven-wrapper.jar
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.m2/
+
+# Ignore arquivos do ambiente Node.js (frontend)
+/node_modules/
+/.next/
+/.turbo/
+/.vercel/
+
+# Ignore arquivos do React
+/build/
+
+# Ignore arquivos do ambiente Docker
+/docker/data/
+*.log
+
+# Ignore arquivos de IDEs e editores
+/.idea/
+/.vscode/
+/.classpath
+/.project
+/.settings/
+
+# Ignore arquivos do sistema operacional
+.DS_Store
+Thumbs.db
