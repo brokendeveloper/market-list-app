@@ -24,7 +24,6 @@ import {
 export function ShoppingList() {
   const {
     loading,
-    error,
     getShoppingLists,
     getListItems,
     addItemToList,

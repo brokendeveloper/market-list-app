@@ -1,5 +1,4 @@
 import React from "react";
-import { Button } from "@/components/ui/button";
 import { ShoppingListItemProps, categoryOptions } from "@/types";
 import { MoreVertical } from "lucide-react";
 import { 
