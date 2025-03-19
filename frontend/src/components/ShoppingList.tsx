@@ -290,7 +290,7 @@ export function ShoppingList() {
       }))
     } else {
       try {
-        const { id: _, ...itemWithoutId } = newItem; 
+        const { id, ...itemWithoutId } = newItem; 
         const itemDTO = adaptItemToApi({
             ...itemWithoutId,
             listId: selectedListId,
