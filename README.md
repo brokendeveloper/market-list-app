@@ -69,6 +69,9 @@ O backend estará rodando em http://localhost:8080
     ```
 Acesse a aplicação no navegador: http://localhost:3001 🚀
 
+## ScreenCast do Projeto
+[Acesse o vídeo não listado aqui](https://youtu.be/TD2FGOWHqyE)
+
 ## 🛠️ Ajustes e Melhorias
 
 - Melhorar interface do usuário
